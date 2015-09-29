@@ -10,7 +10,7 @@
   "dependencies": {
     "cli": "0.10.0",
     "async": "1.4.2",
-    "mocha": "2.3.2",
+    "mocha": "2.3.3",
     "request": "2.64.0",
     "cache-storage": "2.0.1"
   },
